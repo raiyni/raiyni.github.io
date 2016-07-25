@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Two on Ryoung.io</title>
+    <title>Two on ryoung.io</title>
     <link>http://ryoung.io/tags/two/</link>
-    <description>Recent content in Two on Ryoung.io</description>
+    <description>Recent content in Two on ryoung.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>admin@ryoung.io (Ron Young)</managingEditor>
-    <webMaster>admin@ryoung.io (Ron Young)</webMaster>
-    <copyright>(c) 2016 Ron Young.</copyright>
+    <language>en-us</language>
     <lastBuildDate>Sun, 22 May 2016 15:18:07 -0500</lastBuildDate>
     <atom:link href="http://ryoung.io/tags/two/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test</title>
-      <link>http://ryoung.io/2016/05/22/test/</link>
+      <link>http://ryoung.io/blog/test/</link>
       <pubDate>Sun, 22 May 2016 15:18:07 -0500</pubDate>
-      <author>admin@ryoung.io (Ron Young)</author>
-      <guid>http://ryoung.io/2016/05/22/test/</guid>
+      
+      <guid>http://ryoung.io/blog/test/</guid>
       <description></description>
     </item>
     
