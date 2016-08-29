@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>One on Academic Theme</title>
-    <link>http://replace-this-with-your-website-url.com/tags/one/</link>
+    <link>http://ryoung.io/tags/one/</link>
     <description>Recent content in One on Academic Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Sun, 22 May 2016 15:18:07 -0500</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-website-url.com/tags/one/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ryoung.io/tags/one/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test</title>
-      <link>http://replace-this-with-your-website-url.com/blog/test/</link>
+      <link>http://ryoung.io/blog/test/</link>
       <pubDate>Sun, 22 May 2016 15:18:07 -0500</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/blog/test/</guid>
+      <guid>http://ryoung.io/blog/test/</guid>
       <description></description>
     </item>
     
