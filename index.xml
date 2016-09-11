@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Site</title>
+    <title>ryoung.io</title>
     <link>/</link>
-    <description>Recent content on Test Site</description>
+    <description>Recent content on ryoung.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <managingEditor>admin@ryoung.io (Ron Young)</managingEditor>
+    <webMaster>admin@ryoung.io (Ron Young)</webMaster>
     <copyright>(c) 2016 yourname.</copyright>
     <lastBuildDate>Sun, 24 Apr 2016 02:50:28 +0200</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>What is Hugo?</title>
       <link>/2016/04/24/what-is-hugo/</link>
       <pubDate>Sun, 24 Apr 2016 02:50:28 +0200</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>admin@ryoung.io (Ron Young)</author>
       <guid>/2016/04/24/what-is-hugo/</guid>
       <description>
 
@@ -39,7 +39,7 @@ build times and the ability to rebuild whenever a change is made, Hugo
 provides a very fast feedback loop. This is essential when you are
 designing websites, but also very useful when creating content.&lt;/p&gt;
 
-&lt;h2 id=&#34;what-makes-hugo-different&#34;&gt;What makes Hugo different?&lt;/h2&gt;
+&lt;h2 id=&#34;what-makes-hugo-different:11194575dd4b209641e36a3c324b81d5&#34;&gt;What makes Hugo different?&lt;/h2&gt;
 
 &lt;p&gt;Web site generators render content into HTML files. Most are &amp;laquo;dynamic
 site generators.&amp;raquo; That means the HTTP
@@ -80,7 +80,7 @@ actions will rebuild your entire web site using the &lt;code&gt;baseurl&lt;/code
 from your site&amp;rsquo;s configuration file. That&amp;rsquo;s required to have your page
 links work properly with most hosting companies.&lt;/p&gt;
 
-&lt;h2 id=&#34;how-fast-is-hugo&#34;&gt;How fast is Hugo?&lt;/h2&gt;
+&lt;h2 id=&#34;how-fast-is-hugo:11194575dd4b209641e36a3c324b81d5&#34;&gt;How fast is Hugo?&lt;/h2&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
@@ -88,14 +88,14 @@ links work properly with most hosting companies.&lt;/p&gt;
  &lt;/div&gt;
 
 
-&lt;h2 id=&#34;what-does-hugo-do&#34;&gt;What does Hugo do?&lt;/h2&gt;
+&lt;h2 id=&#34;what-does-hugo-do:11194575dd4b209641e36a3c324b81d5&#34;&gt;What does Hugo do?&lt;/h2&gt;
 
 &lt;p&gt;In technical terms, Hugo takes a source directory of files and
 templates and uses these as input to create a complete website.&lt;/p&gt;
 
 &lt;p&gt;Hugo boasts the following features:&lt;/p&gt;
 
-&lt;h3 id=&#34;general&#34;&gt;General&lt;/h3&gt;
+&lt;h3 id=&#34;general:11194575dd4b209641e36a3c324b81d5&#34;&gt;General&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Extremely fast build times (~1 ms per page)&lt;/li&gt;
@@ -106,7 +106,7 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 &lt;li&gt;Host your site anywhere&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;organization&#34;&gt;Organization&lt;/h3&gt;
+&lt;h3 id=&#34;organization:11194575dd4b209641e36a3c324b81d5&#34;&gt;Organization&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Straightforward &lt;a href=&#34;/content/organization/&#34;&gt;organization&lt;/a&gt;&lt;/li&gt;
@@ -121,7 +121,7 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;/extras/aliases/&#34;&gt;Aliases&lt;/a&gt; (redirects)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
+&lt;h3 id=&#34;content:11194575dd4b209641e36a3c324b81d5&#34;&gt;Content&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Native support for content written in &lt;a href=&#34;/content/example/&#34;&gt;Markdown&lt;/a&gt;
@@ -138,7 +138,7 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;/layout/variables/&#34;&gt;&amp;laquo;Wordcount&amp;raquo;&lt;/a&gt; functionality&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;additional-features&#34;&gt;Additional Features&lt;/h3&gt;
+&lt;h3 id=&#34;additional-features:11194575dd4b209641e36a3c324b81d5&#34;&gt;Additional Features&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Integrated &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt; comment support&lt;/li&gt;
@@ -150,7 +150,7 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 
 &lt;p&gt;See what&amp;rsquo;s coming next in the &lt;a href=&#34;/meta/roadmap/&#34;&gt;roadmap&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;who-should-use-hugo&#34;&gt;Who should use Hugo?&lt;/h2&gt;
+&lt;h2 id=&#34;who-should-use-hugo:11194575dd4b209641e36a3c324b81d5&#34;&gt;Who should use Hugo?&lt;/h2&gt;
 
 &lt;p&gt;Hugo is for people that prefer writing in a text editor over
 a browser.&lt;/p&gt;
@@ -163,7 +163,7 @@ databases.&lt;/p&gt;
 documentation, single page site or a site with thousands of
 pages.&lt;/p&gt;
 
-&lt;h2 id=&#34;why-did-you-write-hugo&#34;&gt;Why did you write Hugo?&lt;/h2&gt;
+&lt;h2 id=&#34;why-did-you-write-hugo:11194575dd4b209641e36a3c324b81d5&#34;&gt;Why did you write Hugo?&lt;/h2&gt;
 
 &lt;p&gt;I wrote Hugo ultimately for a few reasons. First, I was disappointed with
 WordPress, my then website solution. It rendered slowly. I couldn&amp;rsquo;t create
@@ -193,7 +193,7 @@ as I have writing it.&lt;/p&gt;
       <title>Introduction</title>
       <link>/2016/04/21/introduction/</link>
       <pubDate>Thu, 21 Apr 2016 02:50:28 +0200</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      <author>admin@ryoung.io (Ron Young)</author>
       <guid>/2016/04/21/introduction/</guid>
       <description>
 
