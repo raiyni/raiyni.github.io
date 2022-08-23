@@ -1,0 +1,3404 @@
+[
+    {
+        "number": "9078",
+        "plus": 984,
+        "minus": 1625,
+        "url": "https://github.com/runelite/runelite/pull/9078"
+    },
+    {
+        "number": "15374",
+        "plus": 39,
+        "minus": 197,
+        "url": "https://github.com/runelite/runelite/pull/15374"
+    },
+    {
+        "number": "6794",
+        "plus": 5,
+        "minus": 130,
+        "url": "https://github.com/runelite/runelite/pull/6794"
+    },
+    {
+        "number": "14832",
+        "plus": 547,
+        "minus": 630,
+        "url": "https://github.com/runelite/runelite/pull/14832"
+    },
+    {
+        "number": "3992",
+        "plus": 118,
+        "minus": 185,
+        "url": "https://github.com/runelite/runelite/pull/3992"
+    },
+    {
+        "number": "15300",
+        "plus": 73,
+        "minus": 116,
+        "url": "https://github.com/runelite/runelite/pull/15300"
+    },
+    {
+        "number": "8122",
+        "plus": 178,
+        "minus": 208,
+        "url": "https://github.com/runelite/runelite/pull/8122"
+    },
+    {
+        "number": "7991",
+        "plus": 44,
+        "minus": 60,
+        "url": "https://github.com/runelite/runelite/pull/7991"
+    },
+    {
+        "number": "8425",
+        "plus": 0,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/8425"
+    },
+    {
+        "number": "6785",
+        "plus": 1,
+        "minus": 10,
+        "url": "https://github.com/runelite/runelite/pull/6785"
+    },
+    {
+        "number": "2933",
+        "plus": 36,
+        "minus": 40,
+        "url": "https://github.com/runelite/runelite/pull/2933"
+    },
+    {
+        "number": "11778",
+        "plus": 38,
+        "minus": 42,
+        "url": "https://github.com/runelite/runelite/pull/11778"
+    },
+    {
+        "number": "5801",
+        "plus": 104,
+        "minus": 108,
+        "url": "https://github.com/runelite/runelite/pull/5801"
+    },
+    {
+        "number": "5170",
+        "plus": 2,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/5170"
+    },
+    {
+        "number": "14131",
+        "plus": 141,
+        "minus": 142,
+        "url": "https://github.com/runelite/runelite/pull/14131"
+    },
+    {
+        "number": "3501",
+        "plus": 0,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/3501"
+    },
+    {
+        "number": "14247",
+        "plus": 0,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14247"
+    },
+    {
+        "number": "4725",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/4725"
+    },
+    {
+        "number": "5792",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/5792"
+    },
+    {
+        "number": "9874",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/9874"
+    },
+    {
+        "number": "10680",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/10680"
+    },
+    {
+        "number": "10681",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/10681"
+    },
+    {
+        "number": "10952",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/10952"
+    },
+    {
+        "number": "11004",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/11004"
+    },
+    {
+        "number": "12615",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12615"
+    },
+    {
+        "number": "12627",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12627"
+    },
+    {
+        "number": "13557",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13557"
+    },
+    {
+        "number": "13563",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13563"
+    },
+    {
+        "number": "14197",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14197"
+    },
+    {
+        "number": "14408",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14408"
+    },
+    {
+        "number": "14413",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14413"
+    },
+    {
+        "number": "14869",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14869"
+    },
+    {
+        "number": "15260",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15260"
+    },
+    {
+        "number": "15363",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15363"
+    },
+    {
+        "number": "15370",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15370"
+    },
+    {
+        "number": "15378",
+        "plus": 1,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15378"
+    },
+    {
+        "number": "4718",
+        "plus": 2,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/4718"
+    },
+    {
+        "number": "9522",
+        "plus": 2,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/9522"
+    },
+    {
+        "number": "11276",
+        "plus": 2,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/11276"
+    },
+    {
+        "number": "12851",
+        "plus": 2,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/12851"
+    },
+    {
+        "number": "14657",
+        "plus": 2,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/14657"
+    },
+    {
+        "number": "15344",
+        "plus": 2,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/15344"
+    },
+    {
+        "number": "15288",
+        "plus": 3,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/15288"
+    },
+    {
+        "number": "6811",
+        "plus": 4,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/6811"
+    },
+    {
+        "number": "13261",
+        "plus": 4,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/13261"
+    },
+    {
+        "number": "15488",
+        "plus": 4,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/15488"
+    },
+    {
+        "number": "12739",
+        "plus": 6,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/12739"
+    },
+    {
+        "number": "15493",
+        "plus": 7,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/15493"
+    },
+    {
+        "number": "15313",
+        "plus": 18,
+        "minus": 18,
+        "url": "https://github.com/runelite/runelite/pull/15313"
+    },
+    {
+        "number": "12696",
+        "plus": 19,
+        "minus": 19,
+        "url": "https://github.com/runelite/runelite/pull/12696"
+    },
+    {
+        "number": "11626",
+        "plus": 35,
+        "minus": 35,
+        "url": "https://github.com/runelite/runelite/pull/11626"
+    },
+    {
+        "number": "15169",
+        "plus": 35,
+        "minus": 35,
+        "url": "https://github.com/runelite/runelite/pull/15169"
+    },
+    {
+        "number": "7399",
+        "plus": 40,
+        "minus": 40,
+        "url": "https://github.com/runelite/runelite/pull/7399"
+    },
+    {
+        "number": "15179",
+        "plus": 217,
+        "minus": 217,
+        "url": "https://github.com/runelite/runelite/pull/15179"
+    },
+    {
+        "number": "6958",
+        "plus": 1,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/6958"
+    },
+    {
+        "number": "13506",
+        "plus": 1,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13506"
+    },
+    {
+        "number": "14335",
+        "plus": 1,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14335"
+    },
+    {
+        "number": "14464",
+        "plus": 1,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14464"
+    },
+    {
+        "number": "14467",
+        "plus": 1,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14467"
+    },
+    {
+        "number": "14800",
+        "plus": 1,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14800"
+    },
+    {
+        "number": "15207",
+        "plus": 1,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/15207"
+    },
+    {
+        "number": "9641",
+        "plus": 2,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/9641"
+    },
+    {
+        "number": "14775",
+        "plus": 2,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14775"
+    },
+    {
+        "number": "15225",
+        "plus": 2,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15225"
+    },
+    {
+        "number": "15384",
+        "plus": 2,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15384"
+    },
+    {
+        "number": "14202",
+        "plus": 3,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/14202"
+    },
+    {
+        "number": "15515",
+        "plus": 4,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/15515"
+    },
+    {
+        "number": "6098",
+        "plus": 2,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/6098"
+    },
+    {
+        "number": "14686",
+        "plus": 2,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14686"
+    },
+    {
+        "number": "5019",
+        "plus": 3,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/5019"
+    },
+    {
+        "number": "7377",
+        "plus": 3,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/7377"
+    },
+    {
+        "number": "6213",
+        "plus": 4,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/6213"
+    },
+    {
+        "number": "14378",
+        "plus": 7,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/14378"
+    },
+    {
+        "number": "5157",
+        "plus": 14,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/5157"
+    },
+    {
+        "number": "11368",
+        "plus": 74,
+        "minus": 72,
+        "url": "https://github.com/runelite/runelite/pull/11368"
+    },
+    {
+        "number": "14162",
+        "plus": 3,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14162"
+    },
+    {
+        "number": "14234",
+        "plus": 3,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14234"
+    },
+    {
+        "number": "9319",
+        "plus": 6,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/9319"
+    },
+    {
+        "number": "10488",
+        "plus": 7,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/10488"
+    },
+    {
+        "number": "7412",
+        "plus": 5,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/7412"
+    },
+    {
+        "number": "15086",
+        "plus": 5,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15086"
+    },
+    {
+        "number": "15321",
+        "plus": 5,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15321"
+    },
+    {
+        "number": "15460",
+        "plus": 12,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/15460"
+    },
+    {
+        "number": "14340",
+        "plus": 23,
+        "minus": 19,
+        "url": "https://github.com/runelite/runelite/pull/14340"
+    },
+    {
+        "number": "12616",
+        "plus": 24,
+        "minus": 20,
+        "url": "https://github.com/runelite/runelite/pull/12616"
+    },
+    {
+        "number": "3889",
+        "plus": 28,
+        "minus": 24,
+        "url": "https://github.com/runelite/runelite/pull/3889"
+    },
+    {
+        "number": "14183",
+        "plus": 8,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/14183"
+    },
+    {
+        "number": "5327",
+        "plus": 9,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/5327"
+    },
+    {
+        "number": "12785",
+        "plus": 6,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12785"
+    },
+    {
+        "number": "12843",
+        "plus": 6,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12843"
+    },
+    {
+        "number": "13693",
+        "plus": 6,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13693"
+    },
+    {
+        "number": "9498",
+        "plus": 8,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/9498"
+    },
+    {
+        "number": "11801",
+        "plus": 7,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/11801"
+    },
+    {
+        "number": "14483",
+        "plus": 7,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14483"
+    },
+    {
+        "number": "12643",
+        "plus": 8,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12643"
+    },
+    {
+        "number": "11006",
+        "plus": 9,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/11006"
+    },
+    {
+        "number": "13391",
+        "plus": 13,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/13391"
+    },
+    {
+        "number": "6945",
+        "plus": 25,
+        "minus": 18,
+        "url": "https://github.com/runelite/runelite/pull/6945"
+    },
+    {
+        "number": "12051",
+        "plus": 8,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12051"
+    },
+    {
+        "number": "15484",
+        "plus": 8,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/15484"
+    },
+    {
+        "number": "14805",
+        "plus": 9,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14805"
+    },
+    {
+        "number": "15201",
+        "plus": 9,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15201"
+    },
+    {
+        "number": "11333",
+        "plus": 11,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/11333"
+    },
+    {
+        "number": "14205",
+        "plus": 12,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/14205"
+    },
+    {
+        "number": "11540",
+        "plus": 14,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/11540"
+    },
+    {
+        "number": "8072",
+        "plus": 26,
+        "minus": 18,
+        "url": "https://github.com/runelite/runelite/pull/8072"
+    },
+    {
+        "number": "13905",
+        "plus": 9,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13905"
+    },
+    {
+        "number": "15507",
+        "plus": 9,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/15507"
+    },
+    {
+        "number": "14836",
+        "plus": 10,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14836"
+    },
+    {
+        "number": "8108",
+        "plus": 41,
+        "minus": 32,
+        "url": "https://github.com/runelite/runelite/pull/8108"
+    },
+    {
+        "number": "14720",
+        "plus": 46,
+        "minus": 37,
+        "url": "https://github.com/runelite/runelite/pull/14720"
+    },
+    {
+        "number": "14161",
+        "plus": 10,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14161"
+    },
+    {
+        "number": "5595",
+        "plus": 11,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/5595"
+    },
+    {
+        "number": "3768",
+        "plus": 12,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/3768"
+    },
+    {
+        "number": "15314",
+        "plus": 14,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/15314"
+    },
+    {
+        "number": "13982",
+        "plus": 11,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13982"
+    },
+    {
+        "number": "14488",
+        "plus": 11,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14488"
+    },
+    {
+        "number": "6231",
+        "plus": 13,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/6231"
+    },
+    {
+        "number": "15529",
+        "plus": 13,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/15529"
+    },
+    {
+        "number": "3424",
+        "plus": 17,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/3424"
+    },
+    {
+        "number": "13197",
+        "plus": 62,
+        "minus": 51,
+        "url": "https://github.com/runelite/runelite/pull/13197"
+    },
+    {
+        "number": "12390",
+        "plus": 13,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12390"
+    },
+    {
+        "number": "14724",
+        "plus": 13,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14724"
+    },
+    {
+        "number": "7958",
+        "plus": 14,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/7958"
+    },
+    {
+        "number": "8761",
+        "plus": 14,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/8761"
+    },
+    {
+        "number": "14168",
+        "plus": 17,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/14168"
+    },
+    {
+        "number": "5773",
+        "plus": 21,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/5773"
+    },
+    {
+        "number": "14715",
+        "plus": 25,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/14715"
+    },
+    {
+        "number": "14343",
+        "plus": 30,
+        "minus": 17,
+        "url": "https://github.com/runelite/runelite/pull/14343"
+    },
+    {
+        "number": "13935",
+        "plus": 39,
+        "minus": 26,
+        "url": "https://github.com/runelite/runelite/pull/13935"
+    },
+    {
+        "number": "14824",
+        "plus": 47,
+        "minus": 34,
+        "url": "https://github.com/runelite/runelite/pull/14824"
+    },
+    {
+        "number": "11345",
+        "plus": 50,
+        "minus": 37,
+        "url": "https://github.com/runelite/runelite/pull/11345"
+    },
+    {
+        "number": "13273",
+        "plus": 339,
+        "minus": 326,
+        "url": "https://github.com/runelite/runelite/pull/13273"
+    },
+    {
+        "number": "15479",
+        "plus": 14,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/15479"
+    },
+    {
+        "number": "14376",
+        "plus": 15,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14376"
+    },
+    {
+        "number": "14955",
+        "plus": 15,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14955"
+    },
+    {
+        "number": "7642",
+        "plus": 17,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/7642"
+    },
+    {
+        "number": "10368",
+        "plus": 17,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/10368"
+    },
+    {
+        "number": "9282",
+        "plus": 19,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/9282"
+    },
+    {
+        "number": "15126",
+        "plus": 24,
+        "minus": 10,
+        "url": "https://github.com/runelite/runelite/pull/15126"
+    },
+    {
+        "number": "8896",
+        "plus": 30,
+        "minus": 16,
+        "url": "https://github.com/runelite/runelite/pull/8896"
+    },
+    {
+        "number": "5805",
+        "plus": 15,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/5805"
+    },
+    {
+        "number": "7353",
+        "plus": 15,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/7353"
+    },
+    {
+        "number": "15004",
+        "plus": 15,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/15004"
+    },
+    {
+        "number": "14949",
+        "plus": 16,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14949"
+    },
+    {
+        "number": "8742",
+        "plus": 17,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/8742"
+    },
+    {
+        "number": "15198",
+        "plus": 17,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/15198"
+    },
+    {
+        "number": "14791",
+        "plus": 176,
+        "minus": 161,
+        "url": "https://github.com/runelite/runelite/pull/14791"
+    },
+    {
+        "number": "7415",
+        "plus": 279,
+        "minus": 264,
+        "url": "https://github.com/runelite/runelite/pull/7415"
+    },
+    {
+        "number": "11099",
+        "plus": 16,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/11099"
+    },
+    {
+        "number": "14128",
+        "plus": 16,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14128"
+    },
+    {
+        "number": "15312",
+        "plus": 16,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/15312"
+    },
+    {
+        "number": "10877",
+        "plus": 17,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/10877"
+    },
+    {
+        "number": "14710",
+        "plus": 24,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/14710"
+    },
+    {
+        "number": "14870",
+        "plus": 31,
+        "minus": 15,
+        "url": "https://github.com/runelite/runelite/pull/14870"
+    },
+    {
+        "number": "4806",
+        "plus": 38,
+        "minus": 22,
+        "url": "https://github.com/runelite/runelite/pull/4806"
+    },
+    {
+        "number": "14876",
+        "plus": 19,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14876"
+    },
+    {
+        "number": "4254",
+        "plus": 52,
+        "minus": 34,
+        "url": "https://github.com/runelite/runelite/pull/4254"
+    },
+    {
+        "number": "10544",
+        "plus": 20,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/10544"
+    },
+    {
+        "number": "8738",
+        "plus": 21,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/8738"
+    },
+    {
+        "number": "14070",
+        "plus": 22,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/14070"
+    },
+    {
+        "number": "4367",
+        "plus": 23,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/4367"
+    },
+    {
+        "number": "11487",
+        "plus": 28,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/11487"
+    },
+    {
+        "number": "15129",
+        "plus": 50,
+        "minus": 31,
+        "url": "https://github.com/runelite/runelite/pull/15129"
+    },
+    {
+        "number": "15325",
+        "plus": 20,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/15325"
+    },
+    {
+        "number": "7236",
+        "plus": 21,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/7236"
+    },
+    {
+        "number": "7629",
+        "plus": 22,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/7629"
+    },
+    {
+        "number": "7949",
+        "plus": 22,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/7949"
+    },
+    {
+        "number": "11444",
+        "plus": 23,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/11444"
+    },
+    {
+        "number": "13800",
+        "plus": 25,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/13800"
+    },
+    {
+        "number": "9189",
+        "plus": 36,
+        "minus": 16,
+        "url": "https://github.com/runelite/runelite/pull/9189"
+    },
+    {
+        "number": "7795",
+        "plus": 23,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/7795"
+    },
+    {
+        "number": "8216",
+        "plus": 23,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/8216"
+    },
+    {
+        "number": "9811",
+        "plus": 23,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/9811"
+    },
+    {
+        "number": "6438",
+        "plus": 33,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/6438"
+    },
+    {
+        "number": "13313",
+        "plus": 45,
+        "minus": 24,
+        "url": "https://github.com/runelite/runelite/pull/13313"
+    },
+    {
+        "number": "7962",
+        "plus": 54,
+        "minus": 33,
+        "url": "https://github.com/runelite/runelite/pull/7962"
+    },
+    {
+        "number": "13532",
+        "plus": 23,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13532"
+    },
+    {
+        "number": "10425",
+        "plus": 26,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/10425"
+    },
+    {
+        "number": "11268",
+        "plus": 26,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/11268"
+    },
+    {
+        "number": "15426",
+        "plus": 26,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/15426"
+    },
+    {
+        "number": "12316",
+        "plus": 76,
+        "minus": 54,
+        "url": "https://github.com/runelite/runelite/pull/12316"
+    },
+    {
+        "number": "14596",
+        "plus": 23,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14596"
+    },
+    {
+        "number": "14938",
+        "plus": 24,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14938"
+    },
+    {
+        "number": "12939",
+        "plus": 54,
+        "minus": 31,
+        "url": "https://github.com/runelite/runelite/pull/12939"
+    },
+    {
+        "number": "5818",
+        "plus": 24,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/5818"
+    },
+    {
+        "number": "6014",
+        "plus": 24,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/6014"
+    },
+    {
+        "number": "7945",
+        "plus": 25,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/7945"
+    },
+    {
+        "number": "13849",
+        "plus": 25,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13849"
+    },
+    {
+        "number": "13997",
+        "plus": 25,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13997"
+    },
+    {
+        "number": "13500",
+        "plus": 25,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13500"
+    },
+    {
+        "number": "12375",
+        "plus": 26,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12375"
+    },
+    {
+        "number": "13410",
+        "plus": 27,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/13410"
+    },
+    {
+        "number": "14241",
+        "plus": 27,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/14241"
+    },
+    {
+        "number": "5284",
+        "plus": 31,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/5284"
+    },
+    {
+        "number": "12052",
+        "plus": 27,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12052"
+    },
+    {
+        "number": "4801",
+        "plus": 31,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/4801"
+    },
+    {
+        "number": "5357",
+        "plus": 37,
+        "minus": 11,
+        "url": "https://github.com/runelite/runelite/pull/5357"
+    },
+    {
+        "number": "13660",
+        "plus": 46,
+        "minus": 20,
+        "url": "https://github.com/runelite/runelite/pull/13660"
+    },
+    {
+        "number": "14339",
+        "plus": 27,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14339"
+    },
+    {
+        "number": "13588",
+        "plus": 28,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13588"
+    },
+    {
+        "number": "15433",
+        "plus": 28,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/15433"
+    },
+    {
+        "number": "14181",
+        "plus": 29,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/14181"
+    },
+    {
+        "number": "9829",
+        "plus": 33,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/9829"
+    },
+    {
+        "number": "13986",
+        "plus": 33,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/13986"
+    },
+    {
+        "number": "6608",
+        "plus": 52,
+        "minus": 25,
+        "url": "https://github.com/runelite/runelite/pull/6608"
+    },
+    {
+        "number": "7032",
+        "plus": 57,
+        "minus": 30,
+        "url": "https://github.com/runelite/runelite/pull/7032"
+    },
+    {
+        "number": "3686",
+        "plus": 28,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/3686"
+    },
+    {
+        "number": "14454",
+        "plus": 37,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/14454"
+    },
+    {
+        "number": "9901",
+        "plus": 29,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/9901"
+    },
+    {
+        "number": "15517",
+        "plus": 33,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/15517"
+    },
+    {
+        "number": "6772",
+        "plus": 33,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/6772"
+    },
+    {
+        "number": "9390",
+        "plus": 33,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/9390"
+    },
+    {
+        "number": "5887",
+        "plus": 32,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/5887"
+    },
+    {
+        "number": "12980",
+        "plus": 33,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/12980"
+    },
+    {
+        "number": "6593",
+        "plus": 36,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/6593"
+    },
+    {
+        "number": "9735",
+        "plus": 57,
+        "minus": 26,
+        "url": "https://github.com/runelite/runelite/pull/9735"
+    },
+    {
+        "number": "14606",
+        "plus": 59,
+        "minus": 28,
+        "url": "https://github.com/runelite/runelite/pull/14606"
+    },
+    {
+        "number": "10075",
+        "plus": 80,
+        "minus": 49,
+        "url": "https://github.com/runelite/runelite/pull/10075"
+    },
+    {
+        "number": "12638",
+        "plus": 193,
+        "minus": 162,
+        "url": "https://github.com/runelite/runelite/pull/12638"
+    },
+    {
+        "number": "7833",
+        "plus": 43,
+        "minus": 11,
+        "url": "https://github.com/runelite/runelite/pull/7833"
+    },
+    {
+        "number": "12194",
+        "plus": 56,
+        "minus": 24,
+        "url": "https://github.com/runelite/runelite/pull/12194"
+    },
+    {
+        "number": "8517",
+        "plus": 34,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/8517"
+    },
+    {
+        "number": "14592",
+        "plus": 34,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14592"
+    },
+    {
+        "number": "13854",
+        "plus": 35,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/13854"
+    },
+    {
+        "number": "13619",
+        "plus": 34,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13619"
+    },
+    {
+        "number": "9349",
+        "plus": 37,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/9349"
+    },
+    {
+        "number": "5742",
+        "plus": 47,
+        "minus": 13,
+        "url": "https://github.com/runelite/runelite/pull/5742"
+    },
+    {
+        "number": "15390",
+        "plus": 48,
+        "minus": 14,
+        "url": "https://github.com/runelite/runelite/pull/15390"
+    },
+    {
+        "number": "5778",
+        "plus": 49,
+        "minus": 15,
+        "url": "https://github.com/runelite/runelite/pull/5778"
+    },
+    {
+        "number": "12632",
+        "plus": 64,
+        "minus": 30,
+        "url": "https://github.com/runelite/runelite/pull/12632"
+    },
+    {
+        "number": "14546",
+        "plus": 82,
+        "minus": 48,
+        "url": "https://github.com/runelite/runelite/pull/14546"
+    },
+    {
+        "number": "7194",
+        "plus": 39,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/7194"
+    },
+    {
+        "number": "14203",
+        "plus": 41,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/14203"
+    },
+    {
+        "number": "13636",
+        "plus": 118,
+        "minus": 83,
+        "url": "https://github.com/runelite/runelite/pull/13636"
+    },
+    {
+        "number": "9871",
+        "plus": 36,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/9871"
+    },
+    {
+        "number": "11892",
+        "plus": 36,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/11892"
+    },
+    {
+        "number": "13002",
+        "plus": 36,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13002"
+    },
+    {
+        "number": "4586",
+        "plus": 37,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/4586"
+    },
+    {
+        "number": "9503",
+        "plus": 38,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/9503"
+    },
+    {
+        "number": "14575",
+        "plus": 44,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/14575"
+    },
+    {
+        "number": "6507",
+        "plus": 45,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/6507"
+    },
+    {
+        "number": "12055",
+        "plus": 46,
+        "minus": 10,
+        "url": "https://github.com/runelite/runelite/pull/12055"
+    },
+    {
+        "number": "14437",
+        "plus": 71,
+        "minus": 35,
+        "url": "https://github.com/runelite/runelite/pull/14437"
+    },
+    {
+        "number": "12350",
+        "plus": 37,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12350"
+    },
+    {
+        "number": "13330",
+        "plus": 37,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13330"
+    },
+    {
+        "number": "8319",
+        "plus": 51,
+        "minus": 14,
+        "url": "https://github.com/runelite/runelite/pull/8319"
+    },
+    {
+        "number": "14979",
+        "plus": 78,
+        "minus": 41,
+        "url": "https://github.com/runelite/runelite/pull/14979"
+    },
+    {
+        "number": "5654",
+        "plus": 38,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/5654"
+    },
+    {
+        "number": "6056",
+        "plus": 38,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/6056"
+    },
+    {
+        "number": "7195",
+        "plus": 38,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/7195"
+    },
+    {
+        "number": "12612",
+        "plus": 38,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12612"
+    },
+    {
+        "number": "13436",
+        "plus": 38,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13436"
+    },
+    {
+        "number": "10863",
+        "plus": 47,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/10863"
+    },
+    {
+        "number": "4889",
+        "plus": 62,
+        "minus": 24,
+        "url": "https://github.com/runelite/runelite/pull/4889"
+    },
+    {
+        "number": "14841",
+        "plus": 155,
+        "minus": 117,
+        "url": "https://github.com/runelite/runelite/pull/14841"
+    },
+    {
+        "number": "5621",
+        "plus": 39,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/5621"
+    },
+    {
+        "number": "9069",
+        "plus": 40,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/9069"
+    },
+    {
+        "number": "14053",
+        "plus": 41,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/14053"
+    },
+    {
+        "number": "11596",
+        "plus": 42,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/11596"
+    },
+    {
+        "number": "7816",
+        "plus": 41,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/7816"
+    },
+    {
+        "number": "10256",
+        "plus": 47,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/10256"
+    },
+    {
+        "number": "13275",
+        "plus": 57,
+        "minus": 17,
+        "url": "https://github.com/runelite/runelite/pull/13275"
+    },
+    {
+        "number": "8728",
+        "plus": 41,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/8728"
+    },
+    {
+        "number": "12746",
+        "plus": 42,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12746"
+    },
+    {
+        "number": "13397",
+        "plus": 43,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13397"
+    },
+    {
+        "number": "14066",
+        "plus": 50,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/14066"
+    },
+    {
+        "number": "14411",
+        "plus": 43,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14411"
+    },
+    {
+        "number": "3972",
+        "plus": 46,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/3972"
+    },
+    {
+        "number": "14516",
+        "plus": 47,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/14516"
+    },
+    {
+        "number": "15089",
+        "plus": 47,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/15089"
+    },
+    {
+        "number": "5307",
+        "plus": 51,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/5307"
+    },
+    {
+        "number": "15453",
+        "plus": 117,
+        "minus": 73,
+        "url": "https://github.com/runelite/runelite/pull/15453"
+    },
+    {
+        "number": "13134",
+        "plus": 45,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13134"
+    },
+    {
+        "number": "14648",
+        "plus": 45,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14648"
+    },
+    {
+        "number": "12626",
+        "plus": 46,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12626"
+    },
+    {
+        "number": "6450",
+        "plus": 50,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/6450"
+    },
+    {
+        "number": "7190",
+        "plus": 51,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/7190"
+    },
+    {
+        "number": "8996",
+        "plus": 52,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/8996"
+    },
+    {
+        "number": "6224",
+        "plus": 56,
+        "minus": 11,
+        "url": "https://github.com/runelite/runelite/pull/6224"
+    },
+    {
+        "number": "8988",
+        "plus": 51,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/8988"
+    },
+    {
+        "number": "11939",
+        "plus": 59,
+        "minus": 13,
+        "url": "https://github.com/runelite/runelite/pull/11939"
+    },
+    {
+        "number": "15483",
+        "plus": 145,
+        "minus": 99,
+        "url": "https://github.com/runelite/runelite/pull/15483"
+    },
+    {
+        "number": "12702",
+        "plus": 49,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/12702"
+    },
+    {
+        "number": "6398",
+        "plus": 50,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/6398"
+    },
+    {
+        "number": "8881",
+        "plus": 51,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/8881"
+    },
+    {
+        "number": "11042",
+        "plus": 53,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/11042"
+    },
+    {
+        "number": "14316",
+        "plus": 53,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/14316"
+    },
+    {
+        "number": "12620",
+        "plus": 48,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12620"
+    },
+    {
+        "number": "10056",
+        "plus": 50,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/10056"
+    },
+    {
+        "number": "14998",
+        "plus": 64,
+        "minus": 16,
+        "url": "https://github.com/runelite/runelite/pull/14998"
+    },
+    {
+        "number": "8544",
+        "plus": 50,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/8544"
+    },
+    {
+        "number": "8659",
+        "plus": 53,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/8659"
+    },
+    {
+        "number": "13691",
+        "plus": 50,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13691"
+    },
+    {
+        "number": "11877",
+        "plus": 52,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/11877"
+    },
+    {
+        "number": "13993",
+        "plus": 52,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/13993"
+    },
+    {
+        "number": "8203",
+        "plus": 54,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/8203"
+    },
+    {
+        "number": "15372",
+        "plus": 65,
+        "minus": 15,
+        "url": "https://github.com/runelite/runelite/pull/15372"
+    },
+    {
+        "number": "13589",
+        "plus": 74,
+        "minus": 24,
+        "url": "https://github.com/runelite/runelite/pull/13589"
+    },
+    {
+        "number": "8240",
+        "plus": 76,
+        "minus": 26,
+        "url": "https://github.com/runelite/runelite/pull/8240"
+    },
+    {
+        "number": "14035",
+        "plus": 84,
+        "minus": 34,
+        "url": "https://github.com/runelite/runelite/pull/14035"
+    },
+    {
+        "number": "11163",
+        "plus": 55,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/11163"
+    },
+    {
+        "number": "15295",
+        "plus": 58,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/15295"
+    },
+    {
+        "number": "12303",
+        "plus": 60,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/12303"
+    },
+    {
+        "number": "11337",
+        "plus": 54,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/11337"
+    },
+    {
+        "number": "13051",
+        "plus": 58,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/13051"
+    },
+    {
+        "number": "11193",
+        "plus": 59,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/11193"
+    },
+    {
+        "number": "4006",
+        "plus": 93,
+        "minus": 40,
+        "url": "https://github.com/runelite/runelite/pull/4006"
+    },
+    {
+        "number": "12778",
+        "plus": 55,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12778"
+    },
+    {
+        "number": "14983",
+        "plus": 56,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/14983"
+    },
+    {
+        "number": "13716",
+        "plus": 55,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13716"
+    },
+    {
+        "number": "14527",
+        "plus": 55,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14527"
+    },
+    {
+        "number": "3435",
+        "plus": 70,
+        "minus": 15,
+        "url": "https://github.com/runelite/runelite/pull/3435"
+    },
+    {
+        "number": "10247",
+        "plus": 70,
+        "minus": 15,
+        "url": "https://github.com/runelite/runelite/pull/10247"
+    },
+    {
+        "number": "10405",
+        "plus": 58,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/10405"
+    },
+    {
+        "number": "7179",
+        "plus": 61,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/7179"
+    },
+    {
+        "number": "12495",
+        "plus": 58,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/12495"
+    },
+    {
+        "number": "6219",
+        "plus": 175,
+        "minus": 118,
+        "url": "https://github.com/runelite/runelite/pull/6219"
+    },
+    {
+        "number": "8882",
+        "plus": 58,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/8882"
+    },
+    {
+        "number": "8645",
+        "plus": 88,
+        "minus": 30,
+        "url": "https://github.com/runelite/runelite/pull/8645"
+    },
+    {
+        "number": "7820",
+        "plus": 60,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/7820"
+    },
+    {
+        "number": "15119",
+        "plus": 61,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/15119"
+    },
+    {
+        "number": "15495",
+        "plus": 62,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/15495"
+    },
+    {
+        "number": "15412",
+        "plus": 65,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/15412"
+    },
+    {
+        "number": "11702",
+        "plus": 69,
+        "minus": 10,
+        "url": "https://github.com/runelite/runelite/pull/11702"
+    },
+    {
+        "number": "10102",
+        "plus": 100,
+        "minus": 40,
+        "url": "https://github.com/runelite/runelite/pull/10102"
+    },
+    {
+        "number": "5825",
+        "plus": 119,
+        "minus": 59,
+        "url": "https://github.com/runelite/runelite/pull/5825"
+    },
+    {
+        "number": "3856",
+        "plus": 62,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/3856"
+    },
+    {
+        "number": "15431",
+        "plus": 62,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/15431"
+    },
+    {
+        "number": "13626",
+        "plus": 64,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/13626"
+    },
+    {
+        "number": "10325",
+        "plus": 65,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/10325"
+    },
+    {
+        "number": "14415",
+        "plus": 92,
+        "minus": 30,
+        "url": "https://github.com/runelite/runelite/pull/14415"
+    },
+    {
+        "number": "6055",
+        "plus": 64,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/6055"
+    },
+    {
+        "number": "14531",
+        "plus": 67,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/14531"
+    },
+    {
+        "number": "10665",
+        "plus": 71,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/10665"
+    },
+    {
+        "number": "14068",
+        "plus": 81,
+        "minus": 18,
+        "url": "https://github.com/runelite/runelite/pull/14068"
+    },
+    {
+        "number": "6471",
+        "plus": 179,
+        "minus": 116,
+        "url": "https://github.com/runelite/runelite/pull/6471"
+    },
+    {
+        "number": "13990",
+        "plus": 76,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/13990"
+    },
+    {
+        "number": "12256",
+        "plus": 76,
+        "minus": 11,
+        "url": "https://github.com/runelite/runelite/pull/12256"
+    },
+    {
+        "number": "8595",
+        "plus": 69,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/8595"
+    },
+    {
+        "number": "4315",
+        "plus": 71,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/4315"
+    },
+    {
+        "number": "13794",
+        "plus": 83,
+        "minus": 15,
+        "url": "https://github.com/runelite/runelite/pull/13794"
+    },
+    {
+        "number": "14135",
+        "plus": 82,
+        "minus": 13,
+        "url": "https://github.com/runelite/runelite/pull/14135"
+    },
+    {
+        "number": "9013",
+        "plus": 90,
+        "minus": 21,
+        "url": "https://github.com/runelite/runelite/pull/9013"
+    },
+    {
+        "number": "12082",
+        "plus": 91,
+        "minus": 22,
+        "url": "https://github.com/runelite/runelite/pull/12082"
+    },
+    {
+        "number": "3050",
+        "plus": 131,
+        "minus": 61,
+        "url": "https://github.com/runelite/runelite/pull/3050"
+    },
+    {
+        "number": "12231",
+        "plus": 82,
+        "minus": 11,
+        "url": "https://github.com/runelite/runelite/pull/12231"
+    },
+    {
+        "number": "14102",
+        "plus": 83,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/14102"
+    },
+    {
+        "number": "15115",
+        "plus": 120,
+        "minus": 49,
+        "url": "https://github.com/runelite/runelite/pull/15115"
+    },
+    {
+        "number": "14178",
+        "plus": 160,
+        "minus": 89,
+        "url": "https://github.com/runelite/runelite/pull/14178"
+    },
+    {
+        "number": "4587",
+        "plus": 72,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/4587"
+    },
+    {
+        "number": "13265",
+        "plus": 75,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/13265"
+    },
+    {
+        "number": "7439",
+        "plus": 98,
+        "minus": 26,
+        "url": "https://github.com/runelite/runelite/pull/7439"
+    },
+    {
+        "number": "14921",
+        "plus": 139,
+        "minus": 67,
+        "url": "https://github.com/runelite/runelite/pull/14921"
+    },
+    {
+        "number": "13765",
+        "plus": 77,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/13765"
+    },
+    {
+        "number": "14349",
+        "plus": 93,
+        "minus": 20,
+        "url": "https://github.com/runelite/runelite/pull/14349"
+    },
+    {
+        "number": "5788",
+        "plus": 74,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/5788"
+    },
+    {
+        "number": "13064",
+        "plus": 74,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13064"
+    },
+    {
+        "number": "15414",
+        "plus": 103,
+        "minus": 29,
+        "url": "https://github.com/runelite/runelite/pull/15414"
+    },
+    {
+        "number": "8444",
+        "plus": 76,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/8444"
+    },
+    {
+        "number": "3936",
+        "plus": 84,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/3936"
+    },
+    {
+        "number": "12150",
+        "plus": 106,
+        "minus": 31,
+        "url": "https://github.com/runelite/runelite/pull/12150"
+    },
+    {
+        "number": "12814",
+        "plus": 104,
+        "minus": 28,
+        "url": "https://github.com/runelite/runelite/pull/12814"
+    },
+    {
+        "number": "12222",
+        "plus": 166,
+        "minus": 88,
+        "url": "https://github.com/runelite/runelite/pull/12222"
+    },
+    {
+        "number": "5888",
+        "plus": 82,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/5888"
+    },
+    {
+        "number": "7496",
+        "plus": 92,
+        "minus": 11,
+        "url": "https://github.com/runelite/runelite/pull/7496"
+    },
+    {
+        "number": "11736",
+        "plus": 105,
+        "minus": 24,
+        "url": "https://github.com/runelite/runelite/pull/11736"
+    },
+    {
+        "number": "4637",
+        "plus": 97,
+        "minus": 15,
+        "url": "https://github.com/runelite/runelite/pull/4637"
+    },
+    {
+        "number": "13266",
+        "plus": 84,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13266"
+    },
+    {
+        "number": "15105",
+        "plus": 129,
+        "minus": 46,
+        "url": "https://github.com/runelite/runelite/pull/15105"
+    },
+    {
+        "number": "14604",
+        "plus": 94,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/14604"
+    },
+    {
+        "number": "15524",
+        "plus": 112,
+        "minus": 27,
+        "url": "https://github.com/runelite/runelite/pull/15524"
+    },
+    {
+        "number": "11515",
+        "plus": 88,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/11515"
+    },
+    {
+        "number": "13590",
+        "plus": 89,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/13590"
+    },
+    {
+        "number": "12881",
+        "plus": 94,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/12881"
+    },
+    {
+        "number": "14489",
+        "plus": 92,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/14489"
+    },
+    {
+        "number": "14538",
+        "plus": 97,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/14538"
+    },
+    {
+        "number": "6952",
+        "plus": 98,
+        "minus": 10,
+        "url": "https://github.com/runelite/runelite/pull/6952"
+    },
+    {
+        "number": "13065",
+        "plus": 108,
+        "minus": 20,
+        "url": "https://github.com/runelite/runelite/pull/13065"
+    },
+    {
+        "number": "4803",
+        "plus": 112,
+        "minus": 24,
+        "url": "https://github.com/runelite/runelite/pull/4803"
+    },
+    {
+        "number": "14994",
+        "plus": 91,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/14994"
+    },
+    {
+        "number": "11245",
+        "plus": 94,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/11245"
+    },
+    {
+        "number": "7397",
+        "plus": 94,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/7397"
+    },
+    {
+        "number": "13958",
+        "plus": 96,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/13958"
+    },
+    {
+        "number": "6259",
+        "plus": 106,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/6259"
+    },
+    {
+        "number": "12028",
+        "plus": 97,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/12028"
+    },
+    {
+        "number": "12994",
+        "plus": 109,
+        "minus": 14,
+        "url": "https://github.com/runelite/runelite/pull/12994"
+    },
+    {
+        "number": "14699",
+        "plus": 118,
+        "minus": 23,
+        "url": "https://github.com/runelite/runelite/pull/14699"
+    },
+    {
+        "number": "6913",
+        "plus": 113,
+        "minus": 17,
+        "url": "https://github.com/runelite/runelite/pull/6913"
+    },
+    {
+        "number": "4867",
+        "plus": 97,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/4867"
+    },
+    {
+        "number": "12983",
+        "plus": 97,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12983"
+    },
+    {
+        "number": "13178",
+        "plus": 98,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13178"
+    },
+    {
+        "number": "7104",
+        "plus": 104,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/7104"
+    },
+    {
+        "number": "9326",
+        "plus": 104,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/9326"
+    },
+    {
+        "number": "11772",
+        "plus": 124,
+        "minus": 25,
+        "url": "https://github.com/runelite/runelite/pull/11772"
+    },
+    {
+        "number": "13816",
+        "plus": 100,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13816"
+    },
+    {
+        "number": "14651",
+        "plus": 100,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14651"
+    },
+    {
+        "number": "11598",
+        "plus": 103,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/11598"
+    },
+    {
+        "number": "13329",
+        "plus": 149,
+        "minus": 45,
+        "url": "https://github.com/runelite/runelite/pull/13329"
+    },
+    {
+        "number": "11851",
+        "plus": 182,
+        "minus": 78,
+        "url": "https://github.com/runelite/runelite/pull/11851"
+    },
+    {
+        "number": "14422",
+        "plus": 108,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/14422"
+    },
+    {
+        "number": "11261",
+        "plus": 110,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/11261"
+    },
+    {
+        "number": "8875",
+        "plus": 114,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/8875"
+    },
+    {
+        "number": "12423",
+        "plus": 117,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/12423"
+    },
+    {
+        "number": "9068",
+        "plus": 121,
+        "minus": 16,
+        "url": "https://github.com/runelite/runelite/pull/9068"
+    },
+    {
+        "number": "12636",
+        "plus": 133,
+        "minus": 26,
+        "url": "https://github.com/runelite/runelite/pull/12636"
+    },
+    {
+        "number": "11693",
+        "plus": 108,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/11693"
+    },
+    {
+        "number": "14278",
+        "plus": 115,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/14278"
+    },
+    {
+        "number": "15084",
+        "plus": 112,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/15084"
+    },
+    {
+        "number": "11925",
+        "plus": 112,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/11925"
+    },
+    {
+        "number": "11652",
+        "plus": 166,
+        "minus": 55,
+        "url": "https://github.com/runelite/runelite/pull/11652"
+    },
+    {
+        "number": "6078",
+        "plus": 127,
+        "minus": 15,
+        "url": "https://github.com/runelite/runelite/pull/6078"
+    },
+    {
+        "number": "15197",
+        "plus": 159,
+        "minus": 46,
+        "url": "https://github.com/runelite/runelite/pull/15197"
+    },
+    {
+        "number": "12356",
+        "plus": 245,
+        "minus": 132,
+        "url": "https://github.com/runelite/runelite/pull/12356"
+    },
+    {
+        "number": "13857",
+        "plus": 122,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/13857"
+    },
+    {
+        "number": "14740",
+        "plus": 118,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/14740"
+    },
+    {
+        "number": "15206",
+        "plus": 245,
+        "minus": 129,
+        "url": "https://github.com/runelite/runelite/pull/15206"
+    },
+    {
+        "number": "14450",
+        "plus": 120,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/14450"
+    },
+    {
+        "number": "13946",
+        "plus": 124,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/13946"
+    },
+    {
+        "number": "3383",
+        "plus": 121,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/3383"
+    },
+    {
+        "number": "14821",
+        "plus": 121,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/14821"
+    },
+    {
+        "number": "14280",
+        "plus": 191,
+        "minus": 70,
+        "url": "https://github.com/runelite/runelite/pull/14280"
+    },
+    {
+        "number": "4318",
+        "plus": 123,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/4318"
+    },
+    {
+        "number": "9724",
+        "plus": 125,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/9724"
+    },
+    {
+        "number": "11912",
+        "plus": 124,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/11912"
+    },
+    {
+        "number": "9380",
+        "plus": 125,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/9380"
+    },
+    {
+        "number": "12368",
+        "plus": 124,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12368"
+    },
+    {
+        "number": "6787",
+        "plus": 125,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/6787"
+    },
+    {
+        "number": "2910",
+        "plus": 141,
+        "minus": 16,
+        "url": "https://github.com/runelite/runelite/pull/2910"
+    },
+    {
+        "number": "13524",
+        "plus": 139,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/13524"
+    },
+    {
+        "number": "7933",
+        "plus": 140,
+        "minus": 10,
+        "url": "https://github.com/runelite/runelite/pull/7933"
+    },
+    {
+        "number": "3817",
+        "plus": 149,
+        "minus": 18,
+        "url": "https://github.com/runelite/runelite/pull/3817"
+    },
+    {
+        "number": "11022",
+        "plus": 383,
+        "minus": 251,
+        "url": "https://github.com/runelite/runelite/pull/11022"
+    },
+    {
+        "number": "15395",
+        "plus": 138,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/15395"
+    },
+    {
+        "number": "14643",
+        "plus": 146,
+        "minus": 10,
+        "url": "https://github.com/runelite/runelite/pull/14643"
+    },
+    {
+        "number": "12609",
+        "plus": 156,
+        "minus": 20,
+        "url": "https://github.com/runelite/runelite/pull/12609"
+    },
+    {
+        "number": "13665",
+        "plus": 138,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13665"
+    },
+    {
+        "number": "5942",
+        "plus": 149,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/5942"
+    },
+    {
+        "number": "5598",
+        "plus": 160,
+        "minus": 22,
+        "url": "https://github.com/runelite/runelite/pull/5598"
+    },
+    {
+        "number": "13435",
+        "plus": 161,
+        "minus": 23,
+        "url": "https://github.com/runelite/runelite/pull/13435"
+    },
+    {
+        "number": "9971",
+        "plus": 149,
+        "minus": 10,
+        "url": "https://github.com/runelite/runelite/pull/9971"
+    },
+    {
+        "number": "7841",
+        "plus": 282,
+        "minus": 142,
+        "url": "https://github.com/runelite/runelite/pull/7841"
+    },
+    {
+        "number": "9920",
+        "plus": 142,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/9920"
+    },
+    {
+        "number": "12122",
+        "plus": 146,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/12122"
+    },
+    {
+        "number": "13352",
+        "plus": 146,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/13352"
+    },
+    {
+        "number": "9231",
+        "plus": 179,
+        "minus": 34,
+        "url": "https://github.com/runelite/runelite/pull/9231"
+    },
+    {
+        "number": "5025",
+        "plus": 150,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/5025"
+    },
+    {
+        "number": "12073",
+        "plus": 172,
+        "minus": 20,
+        "url": "https://github.com/runelite/runelite/pull/12073"
+    },
+    {
+        "number": "12666",
+        "plus": 153,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12666"
+    },
+    {
+        "number": "12118",
+        "plus": 185,
+        "minus": 32,
+        "url": "https://github.com/runelite/runelite/pull/12118"
+    },
+    {
+        "number": "2821",
+        "plus": 159,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/2821"
+    },
+    {
+        "number": "13801",
+        "plus": 194,
+        "minus": 40,
+        "url": "https://github.com/runelite/runelite/pull/13801"
+    },
+    {
+        "number": "13529",
+        "plus": 163,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/13529"
+    },
+    {
+        "number": "9526",
+        "plus": 168,
+        "minus": 10,
+        "url": "https://github.com/runelite/runelite/pull/9526"
+    },
+    {
+        "number": "14399",
+        "plus": 188,
+        "minus": 30,
+        "url": "https://github.com/runelite/runelite/pull/14399"
+    },
+    {
+        "number": "8647",
+        "plus": 161,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/8647"
+    },
+    {
+        "number": "15417",
+        "plus": 166,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/15417"
+    },
+    {
+        "number": "12707",
+        "plus": 175,
+        "minus": 11,
+        "url": "https://github.com/runelite/runelite/pull/12707"
+    },
+    {
+        "number": "12361",
+        "plus": 170,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/12361"
+    },
+    {
+        "number": "7792",
+        "plus": 179,
+        "minus": 11,
+        "url": "https://github.com/runelite/runelite/pull/7792"
+    },
+    {
+        "number": "9308",
+        "plus": 175,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/9308"
+    },
+    {
+        "number": "6088",
+        "plus": 185,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/6088"
+    },
+    {
+        "number": "3479",
+        "plus": 180,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/3479"
+    },
+    {
+        "number": "5415",
+        "plus": 183,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/5415"
+    },
+    {
+        "number": "14067",
+        "plus": 188,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/14067"
+    },
+    {
+        "number": "11493",
+        "plus": 184,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/11493"
+    },
+    {
+        "number": "13235",
+        "plus": 184,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13235"
+    },
+    {
+        "number": "15068",
+        "plus": 218,
+        "minus": 34,
+        "url": "https://github.com/runelite/runelite/pull/15068"
+    },
+    {
+        "number": "11043",
+        "plus": 186,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/11043"
+    },
+    {
+        "number": "10294",
+        "plus": 187,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/10294"
+    },
+    {
+        "number": "12673",
+        "plus": 187,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/12673"
+    },
+    {
+        "number": "6773",
+        "plus": 188,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/6773"
+    },
+    {
+        "number": "11921",
+        "plus": 232,
+        "minus": 44,
+        "url": "https://github.com/runelite/runelite/pull/11921"
+    },
+    {
+        "number": "4728",
+        "plus": 191,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/4728"
+    },
+    {
+        "number": "15403",
+        "plus": 194,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/15403"
+    },
+    {
+        "number": "7998",
+        "plus": 197,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/7998"
+    },
+    {
+        "number": "15012",
+        "plus": 233,
+        "minus": 40,
+        "url": "https://github.com/runelite/runelite/pull/15012"
+    },
+    {
+        "number": "11254",
+        "plus": 223,
+        "minus": 29,
+        "url": "https://github.com/runelite/runelite/pull/11254"
+    },
+    {
+        "number": "12587",
+        "plus": 234,
+        "minus": 38,
+        "url": "https://github.com/runelite/runelite/pull/12587"
+    },
+    {
+        "number": "9137",
+        "plus": 223,
+        "minus": 25,
+        "url": "https://github.com/runelite/runelite/pull/9137"
+    },
+    {
+        "number": "9034",
+        "plus": 314,
+        "minus": 116,
+        "url": "https://github.com/runelite/runelite/pull/9034"
+    },
+    {
+        "number": "5096",
+        "plus": 301,
+        "minus": 93,
+        "url": "https://github.com/runelite/runelite/pull/5096"
+    },
+    {
+        "number": "14334",
+        "plus": 217,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/14334"
+    },
+    {
+        "number": "6046",
+        "plus": 255,
+        "minus": 41,
+        "url": "https://github.com/runelite/runelite/pull/6046"
+    },
+    {
+        "number": "7972",
+        "plus": 216,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/7972"
+    },
+    {
+        "number": "10018",
+        "plus": 216,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/10018"
+    },
+    {
+        "number": "15090",
+        "plus": 275,
+        "minus": 55,
+        "url": "https://github.com/runelite/runelite/pull/15090"
+    },
+    {
+        "number": "6643",
+        "plus": 344,
+        "minus": 124,
+        "url": "https://github.com/runelite/runelite/pull/6643"
+    },
+    {
+        "number": "13701",
+        "plus": 221,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13701"
+    },
+    {
+        "number": "10993",
+        "plus": 227,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/10993"
+    },
+    {
+        "number": "6746",
+        "plus": 288,
+        "minus": 65,
+        "url": "https://github.com/runelite/runelite/pull/6746"
+    },
+    {
+        "number": "4347",
+        "plus": 231,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/4347"
+    },
+    {
+        "number": "11031",
+        "plus": 238,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/11031"
+    },
+    {
+        "number": "9088",
+        "plus": 241,
+        "minus": 6,
+        "url": "https://github.com/runelite/runelite/pull/9088"
+    },
+    {
+        "number": "10546",
+        "plus": 243,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/10546"
+    },
+    {
+        "number": "14772",
+        "plus": 359,
+        "minus": 116,
+        "url": "https://github.com/runelite/runelite/pull/14772"
+    },
+    {
+        "number": "14577",
+        "plus": 262,
+        "minus": 17,
+        "url": "https://github.com/runelite/runelite/pull/14577"
+    },
+    {
+        "number": "14029",
+        "plus": 258,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/14029"
+    },
+    {
+        "number": "15532",
+        "plus": 247,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/15532"
+    },
+    {
+        "number": "6130",
+        "plus": 358,
+        "minus": 111,
+        "url": "https://github.com/runelite/runelite/pull/6130"
+    },
+    {
+        "number": "8416",
+        "plus": 251,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/8416"
+    },
+    {
+        "number": "4443",
+        "plus": 263,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/4443"
+    },
+    {
+        "number": "4116",
+        "plus": 270,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/4116"
+    },
+    {
+        "number": "8535",
+        "plus": 272,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/8535"
+    },
+    {
+        "number": "15177",
+        "plus": 288,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/15177"
+    },
+    {
+        "number": "9142",
+        "plus": 297,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/9142"
+    },
+    {
+        "number": "6032",
+        "plus": 301,
+        "minus": 14,
+        "url": "https://github.com/runelite/runelite/pull/6032"
+    },
+    {
+        "number": "15481",
+        "plus": 448,
+        "minus": 157,
+        "url": "https://github.com/runelite/runelite/pull/15481"
+    },
+    {
+        "number": "12932",
+        "plus": 301,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/12932"
+    },
+    {
+        "number": "12294",
+        "plus": 304,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/12294"
+    },
+    {
+        "number": "7344",
+        "plus": 307,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/7344"
+    },
+    {
+        "number": "6655",
+        "plus": 329,
+        "minus": 29,
+        "url": "https://github.com/runelite/runelite/pull/6655"
+    },
+    {
+        "number": "8531",
+        "plus": 304,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/8531"
+    },
+    {
+        "number": "12250",
+        "plus": 318,
+        "minus": 14,
+        "url": "https://github.com/runelite/runelite/pull/12250"
+    },
+    {
+        "number": "12585",
+        "plus": 332,
+        "minus": 28,
+        "url": "https://github.com/runelite/runelite/pull/12585"
+    },
+    {
+        "number": "10012",
+        "plus": 348,
+        "minus": 34,
+        "url": "https://github.com/runelite/runelite/pull/10012"
+    },
+    {
+        "number": "7906",
+        "plus": 323,
+        "minus": 8,
+        "url": "https://github.com/runelite/runelite/pull/7906"
+    },
+    {
+        "number": "10076",
+        "plus": 332,
+        "minus": 12,
+        "url": "https://github.com/runelite/runelite/pull/10076"
+    },
+    {
+        "number": "14808",
+        "plus": 896,
+        "minus": 573,
+        "url": "https://github.com/runelite/runelite/pull/14808"
+    },
+    {
+        "number": "11832",
+        "plus": 572,
+        "minus": 248,
+        "url": "https://github.com/runelite/runelite/pull/11832"
+    },
+    {
+        "number": "8578",
+        "plus": 333,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/8578"
+    },
+    {
+        "number": "14383",
+        "plus": 344,
+        "minus": 2,
+        "url": "https://github.com/runelite/runelite/pull/14383"
+    },
+    {
+        "number": "10008",
+        "plus": 369,
+        "minus": 19,
+        "url": "https://github.com/runelite/runelite/pull/10008"
+    },
+    {
+        "number": "8166",
+        "plus": 396,
+        "minus": 46,
+        "url": "https://github.com/runelite/runelite/pull/8166"
+    },
+    {
+        "number": "15383",
+        "plus": 476,
+        "minus": 116,
+        "url": "https://github.com/runelite/runelite/pull/15383"
+    },
+    {
+        "number": "10104",
+        "plus": 366,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/10104"
+    },
+    {
+        "number": "7995",
+        "plus": 375,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/7995"
+    },
+    {
+        "number": "7431",
+        "plus": 572,
+        "minus": 191,
+        "url": "https://github.com/runelite/runelite/pull/7431"
+    },
+    {
+        "number": "14634",
+        "plus": 393,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/14634"
+    },
+    {
+        "number": "13632",
+        "plus": 429,
+        "minus": 40,
+        "url": "https://github.com/runelite/runelite/pull/13632"
+    },
+    {
+        "number": "5321",
+        "plus": 409,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/5321"
+    },
+    {
+        "number": "10340",
+        "plus": 455,
+        "minus": 37,
+        "url": "https://github.com/runelite/runelite/pull/10340"
+    },
+    {
+        "number": "7119",
+        "plus": 422,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/7119"
+    },
+    {
+        "number": "12598",
+        "plus": 609,
+        "minus": 187,
+        "url": "https://github.com/runelite/runelite/pull/12598"
+    },
+    {
+        "number": "4714",
+        "plus": 428,
+        "minus": 5,
+        "url": "https://github.com/runelite/runelite/pull/4714"
+    },
+    {
+        "number": "14830",
+        "plus": 434,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/14830"
+    },
+    {
+        "number": "6367",
+        "plus": 447,
+        "minus": 15,
+        "url": "https://github.com/runelite/runelite/pull/6367"
+    },
+    {
+        "number": "11191",
+        "plus": 435,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/11191"
+    },
+    {
+        "number": "14828",
+        "plus": 436,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/14828"
+    },
+    {
+        "number": "4375",
+        "plus": 459,
+        "minus": 16,
+        "url": "https://github.com/runelite/runelite/pull/4375"
+    },
+    {
+        "number": "13963",
+        "plus": 450,
+        "minus": 4,
+        "url": "https://github.com/runelite/runelite/pull/13963"
+    },
+    {
+        "number": "9499",
+        "plus": 475,
+        "minus": 9,
+        "url": "https://github.com/runelite/runelite/pull/9499"
+    },
+    {
+        "number": "13251",
+        "plus": 509,
+        "minus": 42,
+        "url": "https://github.com/runelite/runelite/pull/13251"
+    },
+    {
+        "number": "7503",
+        "plus": 495,
+        "minus": 19,
+        "url": "https://github.com/runelite/runelite/pull/7503"
+    },
+    {
+        "number": "11794",
+        "plus": 487,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/11794"
+    },
+    {
+        "number": "11599",
+        "plus": 543,
+        "minus": 13,
+        "url": "https://github.com/runelite/runelite/pull/11599"
+    },
+    {
+        "number": "6239",
+        "plus": 547,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/6239"
+    },
+    {
+        "number": "4747",
+        "plus": 679,
+        "minus": 115,
+        "url": "https://github.com/runelite/runelite/pull/4747"
+    },
+    {
+        "number": "14179",
+        "plus": 658,
+        "minus": 85,
+        "url": "https://github.com/runelite/runelite/pull/14179"
+    },
+    {
+        "number": "8981",
+        "plus": 581,
+        "minus": 7,
+        "url": "https://github.com/runelite/runelite/pull/8981"
+    },
+    {
+        "number": "4488",
+        "plus": 578,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/4488"
+    },
+    {
+        "number": "11233",
+        "plus": 925,
+        "minus": 309,
+        "url": "https://github.com/runelite/runelite/pull/11233"
+    },
+    {
+        "number": "3728",
+        "plus": 691,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/3728"
+    },
+    {
+        "number": "12951",
+        "plus": 844,
+        "minus": 95,
+        "url": "https://github.com/runelite/runelite/pull/12951"
+    },
+    {
+        "number": "7836",
+        "plus": 907,
+        "minus": 137,
+        "url": "https://github.com/runelite/runelite/pull/7836"
+    },
+    {
+        "number": "12604",
+        "plus": 881,
+        "minus": 60,
+        "url": "https://github.com/runelite/runelite/pull/12604"
+    },
+    {
+        "number": "8153",
+        "plus": 913,
+        "minus": 52,
+        "url": "https://github.com/runelite/runelite/pull/8153"
+    },
+    {
+        "number": "4872",
+        "plus": 975,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/4872"
+    },
+    {
+        "number": "3429",
+        "plus": 1554,
+        "minus": 380,
+        "url": "https://github.com/runelite/runelite/pull/3429"
+    },
+    {
+        "number": "6585",
+        "plus": 1404,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/6585"
+    },
+    {
+        "number": "7253",
+        "plus": 1407,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/7253"
+    },
+    {
+        "number": "13592",
+        "plus": 1407,
+        "minus": 0,
+        "url": "https://github.com/runelite/runelite/pull/13592"
+    },
+    {
+        "number": "12105",
+        "plus": 2402,
+        "minus": 908,
+        "url": "https://github.com/runelite/runelite/pull/12105"
+    },
+    {
+        "number": "2873",
+        "plus": 1930,
+        "minus": 3,
+        "url": "https://github.com/runelite/runelite/pull/2873"
+    },
+    {
+        "number": "8096",
+        "plus": 2737,
+        "minus": 214,
+        "url": "https://github.com/runelite/runelite/pull/8096"
+    },
+    {
+        "number": "7805",
+        "plus": 2886,
+        "minus": 1,
+        "url": "https://github.com/runelite/runelite/pull/7805"
+    },
+    {
+        "number": "8247",
+        "plus": 10631,
+        "minus": 107,
+        "url": "https://github.com/runelite/runelite/pull/8247"
+    }
+]
